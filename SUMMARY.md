@@ -13,7 +13,7 @@
 * [Adding a title and credits](adding-a-title-and-credits.md)
 * [Adding captions](adding-captions.md)
 * [Previewing your project](previewing-your-project.md)
-* Saving your project
+* [Saving your project](saving-your-project.md)
 * Opening an existing Soundslides project
 
 ## Working with audio
