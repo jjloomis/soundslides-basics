@@ -7,7 +7,7 @@
 * [Creating a folder of keeper pics](creating-a-folder-of-keeper-pics.md)
 * [Opening Soundslides](opening-soundslides.md)
 * [Creating a Soundslides project](creating-a-soundslides-project.md)
-* Importing JPG files
+* [Importing JPG files](importing-jpg-files.md)
 * Arranging images
 * Adding images
 * Adding a title and credits
