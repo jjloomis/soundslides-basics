@@ -14,7 +14,7 @@
 * [Adding captions](adding-captions.md)
 * [Previewing your project](previewing-your-project.md)
 * [Saving your project](saving-your-project.md)
-* Opening an existing Soundslides project
+* [Opening an existing Soundslides project](opening-an-existing-soundslides-project.md)
 
 ## Working with audio
 * Importing an MP3
