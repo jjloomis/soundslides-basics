@@ -18,7 +18,7 @@
 
 ## Working with audio
 * [Importing an MP3](importing-an-mp3.md)
-* Arranging images over the timeline
+* [Arranging images in the timeline](arranging-images-over-the-timeline.md)
 * Changing image duration
 
 ## Exporting
