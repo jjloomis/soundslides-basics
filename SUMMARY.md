@@ -5,7 +5,7 @@
 ## Creating a photo slideshow
 * [Connecting to your class folder](connecting-to-your-class-folder.md)
 * [Creating a folder of keeper pics](creating-a-folder-of-keeper-pics.md)
-* Opening Soundslides
+* [Opening Soundslides](opening-soundslides.md)
 * Creating a Soundslides project
 * Importing JPG files
 * Arranging images
