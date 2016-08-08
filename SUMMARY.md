@@ -17,7 +17,7 @@
 * [Opening an existing Soundslides project](opening-an-existing-soundslides-project.md)
 
 ## Working with audio
-* Importing an MP3
+* [Importing an MP3](importing-an-mp3.md)
 * Arranging images over the timeline
 * Changing image duration
 
