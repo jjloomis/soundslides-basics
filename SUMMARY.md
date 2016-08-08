@@ -8,7 +8,7 @@
 * [Opening Soundslides](opening-soundslides.md)
 * [Creating a Soundslides project](creating-a-soundslides-project.md)
 * [Importing JPG files](importing-jpg-files.md)
-* Arranging images
+* [Arranging images](arranging-images.md)
 * Adding images
 * Adding a title and credits
 * Adding captions
