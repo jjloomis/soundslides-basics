@@ -11,7 +11,7 @@
 * [Arranging images](arranging-images.md)
 * [Adding images](adding-images.md)
 * [Adding a title and credits](adding-a-title-and-credits.md)
-* Adding captions
+* [Adding captions](adding-captions.md)
 * Previewing your project
 * Saving your project
 * Opening an existing Soundslides project
