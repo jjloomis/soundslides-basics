@@ -4,5 +4,7 @@
 
 ## Creating a Project
 
+## Working with audio
 
+## Exporting
 
