@@ -22,5 +22,5 @@
 * [Changing image duration](changing-image-duration.md)
 
 ## Exporting
-* Exporting a publish\_to\_web folder
+* [Exporting a publish\_to\_web folder](exporting-a-publishtoweb-folder.md)
 
