@@ -4,7 +4,9 @@
 
 ## Creating a photo slideshow
 * [Connecting to your class folder](connecting-to-your-class-folder.md)
-* [Creating a keeper pics folder](creating-a-folder-of-keeper-pics.md)
+* [Creating a keeper-pics folder](creating-a-folder-of-keeper-pics.md)
+* Previewing JPG files with Preview
+* [Copying JPG files into your keeper-pics folder](copying-jpg-files-from-an-sd-card-into-your-keeper-pics-folder.md)
 * [Opening Soundslides](opening-soundslides.md)
 * [Creating a Soundslides project](creating-a-soundslides-project.md)
 * [Importing JPG files](importing-jpg-files.md)
@@ -14,7 +16,7 @@
 * [Adding captions](adding-captions.md)
 * [Previewing your project](previewing-your-project.md)
 * [Saving your project](saving-your-project.md)
-* [Opening an existing Soundslides project](opening-an-existing-soundslides-project.md)
+* Previewing JPG files with Preview
 
 ## Working with audio
 * [Importing an MP3](importing-an-mp3.md)
