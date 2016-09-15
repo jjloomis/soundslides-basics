@@ -4,7 +4,7 @@
 2. On the Desktop, your USB drive will appear as an attached device (on the right). Double-click your USB drive to open it.
 3. In the USB drive's Finder window, navigate to the folder that contains the JPG files you'd like to use in your project.
 
-    * If the folder contains JPG files and other files (MOV or DOCX files, for example), press Command (on keyboard) and select only the JPG files.
+    * If the folder contains JPG files and other file formats (MOV or DOCX files, for example), press Command (on keyboard) and select only the JPG files.
  
     * If the folder contains only JPG files, press Command + A (on keyboard) to select all of the JPG files.
 
