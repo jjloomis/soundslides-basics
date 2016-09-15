@@ -11,6 +11,7 @@
 * [Copying JPG files from a USB drive into your keeper-pics folder](copying-jpg-files-in-a-folder-into-your-keeper-pics-folder.md)
 * [Opening Soundslides](opening-soundslides.md)
 * [Creating a Soundslides project](creating-a-soundslides-project.md)
+* [Opening an existing Soundslides project](opening-an-existing-soundslides-project.md)
 * [Arranging images](arranging-images.md)
 * [Deleting images](deleting-images.md)
 * [Adding images](adding-images.md)
