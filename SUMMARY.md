@@ -17,7 +17,7 @@
 * [Adding captions](adding-captions.md)
 * [Previewing your project](previewing-your-project.md)
 * [Saving your project](saving-your-project.md)
-* Previewing JPG files with Preview
+* [Previewing JPG files with Preview](previewing-jpg-files-with-preview.md)
 
 ## Working with audio
 * [Importing an MP3](importing-an-mp3.md)
