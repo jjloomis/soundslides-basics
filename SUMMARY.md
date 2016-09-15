@@ -8,8 +8,8 @@
 * [Creating a keeper-pics folder](creating-a-folder-of-keeper-pics.md)
 * [Previewing JPG files with Preview](previewing-jpg-files-with-preview.md)
 * [Copying JPG files from an SD card into your keeper-pics folder](copying-jpg-files-from-an-sd-card-into-your-keeper-pics-folder.md)
-* [Copying JPG files from an iPad&sol; iPhone into your keeper pics folder](copying-jpg-files-from-an-ipad-iphone-into-your-keeper-pics-folder.md)
-* Copying JPG files in a folder into your keeper-pics folder
+* [Copying JPG files from an iPad\/ iPhone into your keeper pics folder](copying-jpg-files-from-an-ipad-iphone-into-your-keeper-pics-folder.md)
+* [Copying JPG files from a folder into your keeper-pics folder](copying-jpg-files-in-a-folder-into-your-keeper-pics-folder.md)
 * [Opening Soundslides](opening-soundslides.md)
 * [Creating a Soundslides project](creating-a-soundslides-project.md)
 * [Importing JPG files](importing-jpg-files.md)
@@ -20,7 +20,6 @@
 * [Previewing your project](previewing-your-project.md)
 * [Saving your project](saving-your-project.md)
 * Previewing JPG files with Preview
-
 
 ## Working with audio
 * [Importing an MP3](importing-an-mp3.md)
