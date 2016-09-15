@@ -14,7 +14,7 @@
 * [Arranging images](arranging-images.md)
 * [Deleting images](deleting-images.md)
 * [Adding images](adding-images.md)
-* [Adding a title and credits](adding-a-title-and-credits.md)
+* [Adding a headline and credits](adding-a-title-and-credits.md)
 * [Adding captions](adding-captions.md)
 * [Previewing your project](previewing-your-project.md)
 * [Saving your project](saving-your-project.md)
