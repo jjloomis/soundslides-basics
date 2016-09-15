@@ -1,0 +1,12 @@
+# Copying JPG files into your keeper-pics folder
+
+## From an SD card
+
+1. Eject the SD card from your camera. Insert the SD card into the SD card reader (back of the Mac).
+2. On the Mac, iPhoto will open. Do not use iPhoto to manage your JPG files. Close iPhoto.
+3. On the Desktop, the SD card will appear as an attached device (on the right). Double-click the SD card to open it. 
+4. In the SD card's Finder window, you will need to drill down in the folder tree to find your JPG files. (The location of the folder of JPG files will be different for each camera manufacturer.) 
+5. In the folder of JPG files, press Command + A (on keyboard) to select all of the files in the folder. 
+6. 
+
+## From another folder
