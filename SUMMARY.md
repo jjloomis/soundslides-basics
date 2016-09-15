@@ -21,7 +21,7 @@
 * [Saving your project](saving-your-project.md)
 
 ## Working with audio
-* [Importing an MP3](importing-an-mp3.md)
+* [Importing an MP3 file](importing-an-mp3.md)
 * [Arranging images in the timeline](arranging-images-over-the-timeline.md)
 * [Changing the duration of images in the Timeline](changing-image-duration.md)
 * [Playing your project in the Timeline](playing-your-project-in-the-timeline.md)
