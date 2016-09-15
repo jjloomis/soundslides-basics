@@ -1,4 +1,4 @@
-# Copying JPG Files from an iPad&sol; iPhone to Your Project Folder
+# Copying JPG Files from an iPad&sol; iPhone to Your keeper-pics Folder
 
 1. Connect to your class folder using JAMS Lab or CCL Mac.
 2. Using the iPad&sol; iPhone USB cable, connect your iPad&sol; iPhone to the back of the Mac.
