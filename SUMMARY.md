@@ -12,12 +12,12 @@
 * [Opening Soundslides](opening-soundslides.md)
 * [Creating a Soundslides project](creating-a-soundslides-project.md)
 * [Arranging images](arranging-images.md)
+* [Deleting images](deleting-images.md)
 * [Adding images](adding-images.md)
 * [Adding a title and credits](adding-a-title-and-credits.md)
 * [Adding captions](adding-captions.md)
 * [Previewing your project](previewing-your-project.md)
 * [Saving your project](saving-your-project.md)
-* [Deleting images](deleting-images.md)
 
 ## Working with audio
 * [Importing an MP3](importing-an-mp3.md)
