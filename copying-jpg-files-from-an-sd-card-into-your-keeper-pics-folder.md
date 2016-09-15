@@ -11,7 +11,7 @@
 7. If necessary, open another Finder window and navigate to your keeper-pics folder.
 8. In Preview, select the thumbnails (right panel) of the JPG files you'd like to use in your project. Note: Press the Command key (on keyboard) to select multiple thumbnails.
 9. Click and drag the selected thumbnails into your keeper-pics folder. 
-10. When finished, eject your SD card and return it to your camera. 
+10. When finished, eject your SD card and insert it back into your camera. 
 
 
 
