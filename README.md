@@ -1,4 +1,4 @@
-# Soundslides: Slide Show Basics
+# Soundslides: Slideshow Basics
 
 ## About
 
