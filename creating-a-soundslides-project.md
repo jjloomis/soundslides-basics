@@ -7,6 +7,6 @@
 5. Click Save. Sounslides will display a content importing screen.
 6. Click the JPG button. Navigate to and select your keeper-pics folder. Click Open. Note: At this point, Soundslides will import the entire folder of JPG files. The individual files will be appear greyed out. This is because the folder \(and its content\) is the item being imported into the program. 
 7. Click `SLIDE SHOW ONLY - SKIP AUDIO`. (You can add audio later, if need be.)
-8. 
+8. After Soundslides loads and your JPG files are imported, click `Save`.
 
 
