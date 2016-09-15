@@ -1,2 +1,3 @@
 # Deleting images
 
+* To delete 
