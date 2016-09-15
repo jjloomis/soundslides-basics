@@ -9,7 +9,7 @@
 * [Previewing JPG files with Preview](previewing-jpg-files-with-preview.md)
 * [Copying JPG files from an SD card into your keeper-pics folder](copying-jpg-files-from-an-sd-card-into-your-keeper-pics-folder.md)
 * [Copying JPG files from an iPad\/ iPhone into your keeper pics folder](copying-jpg-files-from-an-ipad-iphone-into-your-keeper-pics-folder.md)
-* [Copying JPG files from a folder into your keeper-pics folder](copying-jpg-files-in-a-folder-into-your-keeper-pics-folder.md)
+* [Copying JPG files from a USB drive into your keeper-pics folder](copying-jpg-files-in-a-folder-into-your-keeper-pics-folder.md)
 * [Opening Soundslides](opening-soundslides.md)
 * [Creating a Soundslides project](creating-a-soundslides-project.md)
 * [Importing JPG files](importing-jpg-files.md)
