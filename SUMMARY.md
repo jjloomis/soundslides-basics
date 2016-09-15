@@ -24,6 +24,7 @@
 * [Importing an MP3](importing-an-mp3.md)
 * [Arranging images in the timeline](arranging-images-over-the-timeline.md)
 * [Changing image duration](changing-image-duration.md)
+* Playing your project in the Timeline
 
 ## Exporting
 * [Exporting a publish\_to\_web folder](exporting-a-publishtoweb-folder.md)
