@@ -5,6 +5,6 @@
 3. Close the publish_to_web folder Finder window.
 4. In your Soundslides project folder, control-click your publish_to_web folder.
 5. In the fly-out menu, choose Compress. A publish_to_web.zip file will appear in your project folder.
-6. The publish_to_web.zip file can be uploaded to hosting space or converted to an MP4 video. 
+6. The publish_to_web.zip file can be uploaded to hosting space or converted to an MP4 video and added to YouTube. 
 
 
