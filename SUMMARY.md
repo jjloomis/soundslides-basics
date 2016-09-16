@@ -17,7 +17,7 @@
 * [Adding images](adding-images.md)
 * [Adding a headline and credits](adding-a-title-and-credits.md)
 * [Adding captions](adding-captions.md)
-* [Previewing your project](previewing-your-project.md)
+* [Previewing your project in a browser](previewing-your-project.md)
 * [Saving your project](saving-your-project.md)
 
 ## Working with audio
