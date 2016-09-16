@@ -13,7 +13,7 @@
 * [Creating a Soundslides project](creating-a-soundslides-project.md)
 * [Opening an existing Soundslides project](opening-an-existing-soundslides-project.md)
 * [Arranging images](arranging-images.md)
-* [Deleting images](deleting-images.md)
+* [Deleting an image](deleting-images.md)
 * [Adding images](adding-images.md)
 * [Adding a headline and credits](adding-a-title-and-credits.md)
 * [Adding captions](adding-captions.md)
