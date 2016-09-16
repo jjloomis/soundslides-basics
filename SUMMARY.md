@@ -14,7 +14,7 @@
 * [Opening an existing Soundslides project](opening-an-existing-soundslides-project.md)
 * [Arranging images](arranging-images.md)
 * [Deleting an image](deleting-images.md)
-* [Adding images](adding-images.md)
+* [Adding an image](adding-images.md)
 * [Adding a headline and credits](adding-a-title-and-credits.md)
 * [Adding captions](adding-captions.md)
 * [Previewing your project in a browser](previewing-your-project.md)
