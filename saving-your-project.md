@@ -1,5 +1,6 @@
 # Saving your project
 
-* To save your slide show, click the Save button.
+* To save your project, click the `Save` button.
 
-Note: Your project already has a name and location. Do not go to File and select Save as. Doing this will create unnecessary duplicates of your SSPROJ file.
+Note: Your project already has a name and location. If you select `File` on the menu bar and choose `Save as`, you will create unnecessary duplicates of your SSPROJ file.
+
