@@ -1,5 +1,11 @@
 # Previewing your slide show
 
-* To view your slide show in a browser, click the `Test` button.
+Before you can view your project in a browser, you will need to apply the HTML5 shell. 
+
+1. Select the Template tab. 
+2. Within the Template tab, select the Shell sub-tab.
+3. In the Shell drop-down list, select `iOS_html5`.
+4. Click `Save`.
+5. To view your project in a browser, click the `Test` button.
 
 
