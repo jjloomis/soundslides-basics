@@ -9,10 +9,8 @@
   * If the folder contains only JPG files, press `Command` + `A` \(on keyboard\) to select all of the JPG files.
 
 4. With all of the JPG files selected, press Control \(on keyboard\) and click within the selected area. In the fly-out menu that appears, select Open With and choose Preview.
-
 5. If necessary, open another Finder window and navigate to your keeper-pics folder.
-
 6. In Preview, select the thumbnails \(right panel\) of the JPG files you'd like to use in your project. Press the Command key \(on keyboard\) to select multiple thumbnails.
 7. Click and drag the selected thumbnails into your keeper-pics folder.
-5. When finished, eject your USB drive and remove it from the back of the Mac.
+8. When finished, eject your USB drive and remove it from the back of the Mac.
 
