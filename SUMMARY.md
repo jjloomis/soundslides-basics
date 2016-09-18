@@ -32,3 +32,6 @@
 ## Troubleshooting
 * [Abort Script Warning Box](abort-script-dialog-box.md)
 
+## Glossary
+* [Glossary](glossary.md)
+
