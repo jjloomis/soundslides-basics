@@ -5,6 +5,7 @@
 3. In the Credits field, enter your name using one of the following formats:
   * For a photos-only slide show use `Photos: Your Name`
   * For a photos and audio slide show use `Photos and audio: Your Name`
+
 4. When finished, click `Save`.
 
-
+![](/assets/soundslide-adding-a-headline-and-credits.png)
