@@ -1,7 +1,7 @@
 # Creating a Soundslides project
 
 1. Open Soundslides and click the `New` button.
-2. In the Save your project box, give your project a relevant name. Follow File and Folder Naming Conventions. 
+2. In the Save dialog box, give your project a relevant name. Follow File and Folder Naming Conventions. 
 3. Click the `expand` button \(downward-pointing arrow\) next to the Save As field to display additional storage locations. 
 4. In the left panel under Shared, select ufiles.ad.uwm.edu. Navigate to your class folder.
 5. Click `Save`. Sounslides will display a screen with import buttons and project setting. Leave the default settings selected.
