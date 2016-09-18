@@ -6,6 +6,10 @@ Network storage space used for multimedia projects.
 
 Compressed image file format. All images used in your Soundslides project must be JPG files.
 
+## MP3
+
+Compressed audio file format. Often used for online delivery of audio. 
+
 ## Project folder
 
 Folder that contains SSPROJ project file and all files and folders associated with your project.
