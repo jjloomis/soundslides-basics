@@ -6,9 +6,13 @@ Network storage space used for multimedia projects.
 
 Compressed image file format. All images used in your Soundslides project must be JPG files.
 
+## keeper-pics folder
+
+Folder of JPG files that you intend to use in your Soundslides project.
+
 ## MP3
 
-Compressed audio file format. Often used for online delivery of audio. 
+Compressed audio file format. Often used for online delivery of audio.
 
 ## Project folder
 
