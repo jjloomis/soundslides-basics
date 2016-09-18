@@ -9,3 +9,5 @@
 7. Click `SLIDE SHOW ONLY - SKIP AUDIO`. \(You can add audio later.\)
 8. After Soundslides loads and your JPG files are imported, click `Save`.
 
+![](/assets/soundslides-creating-a-soundslides-project.png)
+
