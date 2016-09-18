@@ -4,3 +4,4 @@
 2. Click and drag in the area between the two images. As the duration of one image increases, the duration of the other image will decrease.
 3. Play your project in the Timeline. Continue to change the duration of images as you see fit. 
 
+![](/assets/soundslides-changing-duration-in-timeline.png)
