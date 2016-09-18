@@ -4,7 +4,7 @@ Network storage space used for multimedia projects.
 
 ## JPG
 
-Compressed image file format. All images used in your Soundslides project must be JPG files.
+Compressed image file format. Images used in a Soundslides project must be JPG files.
 
 ## keeper-pics folder
 
