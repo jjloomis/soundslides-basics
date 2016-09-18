@@ -20,7 +20,7 @@ Folder that contains SSPROJ project file and all files and folders associated wi
 
 ## publish\_to\_web folder
 
-Soundslides finished product folder that contains all files and folders necessary to deliver your project via the web.
+Soundslides finished product folder. Contains all files and folders necessary to deliver your project via the web.
 
 ## SSPROJ
 
