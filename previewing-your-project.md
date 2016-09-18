@@ -9,3 +9,4 @@ Before you can view your project in a browser, you'll need to apply the HTML5 sh
 5. To view your project in a browser, click the `Test` button.
 
 ![](/assets/soundslides-previewing-in-browser.png)
+
