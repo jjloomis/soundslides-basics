@@ -5,3 +5,4 @@
 3. Arrange your images again \(if necessary\).
 4. When finished, click `Save`.
 
+![](/assets/soundslides-adding-an-image.png)
