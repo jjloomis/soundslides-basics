@@ -1,8 +1,8 @@
-# Soundslides: Slideshow Basics
+# Soundslides Basics
 
 ## About
 
-Soundslides: Slideshow Basics for [Journalism, Advertising, and Media Studies](http://uwm.edu/journalism-advertising-media-studies/ "Journalism, Advertising, and Media Studies website") students at [UW-Milwaukee](http://uwm.edu/ "UW–Milwaukee website").
+Soundslides Basics for [Journalism, Advertising, and Media Studies](http://uwm.edu/journalism-advertising-media-studies/ "Journalism, Advertising, and Media Studies website") students at [UW-Milwaukee](http://uwm.edu/ "UW–Milwaukee website").
 
 ## Credits
 
