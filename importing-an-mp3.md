@@ -7,3 +7,4 @@
 5. Click `Open`. The MP3 will import to your project and your images will distribute equally across the Timeline. 
 6. Click `Save`.
 
+![](/assets/soundslides-importing-an-mp3.png)
