@@ -14,3 +14,7 @@ Folder that contains SSPROJ project file and all files and folders associated wi
 
 Soundslides finished product folder that contains all files and folders necessary to deliver your project via the web.
 
+## SSPROJ
+
+Soundslides project file.
+
