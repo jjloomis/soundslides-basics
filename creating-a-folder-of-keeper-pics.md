@@ -1,4 +1,4 @@
-# Creating a keeper pics folder
+# Creating a keeper-pics folder
 
 1. If necessary, connect to your class folder using a [JAMS Lab](https://jjloomis.gitbooks.io/file-and-folder-management/content/connecting-in-jams-lab.html) or [CCL](/(https://jjloomis.gitbooks.io/file-and-folder-management/content/connecting-in-ccl.html) Mac.
 2. [Drill down in the folder tree](https://jjloomis.gitbooks.io/file-and-folder-management/content/navigating-folder-tree.html) until you are in your class folder.
