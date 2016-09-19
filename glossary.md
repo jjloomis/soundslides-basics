@@ -8,7 +8,7 @@ Compressed image file format. Images used in a Soundslides project must be JPG f
 
 ## keeper-pics folder
 
-Folder of JPG files that you intend to use in your Soundslides project.
+Folder of JPG files that you will use to create your Soundslides project.
 
 ## MP3
 
