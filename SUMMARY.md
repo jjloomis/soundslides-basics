@@ -30,7 +30,7 @@
 * [Exporting a publish\_to\_web folder](exporting-a-publishtoweb-folder.md)
 
 ## Troubleshooting
-* [Abort Script Warning Box](abort-script-dialog-box.md)
+* [Abort script warning box](abort-script-dialog-box.md)
 
 ## Glossary
 * [Glossary](glossary.md)
