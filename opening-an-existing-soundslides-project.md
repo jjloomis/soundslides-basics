@@ -4,4 +4,4 @@
 2. Navigate to your class folder and open your Soundslides project folder.
 3. In your Soundslides project folder, double-click the SSPROJ file.
 
-![](/assets/soundslides-opening-an-existing-soundslides-project.png)
+![Opening an existing Soundslides project.](/assets/soundslides-opening-an-existing-soundslides-project.png)
