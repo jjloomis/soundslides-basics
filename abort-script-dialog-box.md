@@ -8,7 +8,7 @@ When creating a new Soundslides project you may see a warning box that says:
 
 Click `No`.
 
-![](/assets/soundslides-abort-script.png)
+![Abort script warning box.](/assets/soundslides-abort-script.png)
 
 
 

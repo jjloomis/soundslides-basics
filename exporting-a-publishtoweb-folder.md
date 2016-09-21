@@ -7,5 +7,5 @@
 5. In the fly-out menu, choose `Compress`. A publish\_to\_web.zip file will appear in your project folder.
 6. The publish\_to\_web.zip file can be uploaded to web hosting space or converted to an MP4 video and uploaded to YouTube. 
 
-![](/assets/soundslides-publish-to-web-folder.png)
+![An exported publish_to_web folder.](/assets/soundslides-publish-to-web-folder.png)
 
