@@ -8,6 +8,6 @@ Before you can view your project in a browser, you'll need to apply the HTML5 sh
 4. Click `Save`.
 5. To view your project in a browser, click the `Test` button.
 
-![](/assets/soundslides-previewing-in-browser.png)
+![Previewing a project in browser. Note: iOS_html5 shell must be active.](/assets/soundslides-previewing-in-browser.png)
 
 

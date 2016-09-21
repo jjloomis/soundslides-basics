@@ -8,4 +8,4 @@
 
 4. When finished, click `Save`.
 
-![](/assets/soundslide-adding-a-headline-and-credits.png)
+![Adding a headline and credits.](/assets/soundslide-adding-a-headline-and-credits.png)

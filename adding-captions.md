@@ -5,6 +5,6 @@
 3. In the Captions field, add a caption to the image. Note: Do not click `Update Image`. 
 4. When finished, click Save.
 
-![](/assets/soundslides-adding-captions.png)
+![Adding captions to images.](/assets/soundslides-adding-captions.png)
 
 
