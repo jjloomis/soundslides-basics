@@ -4,5 +4,5 @@
 2. Click `Go` on the menu bar and select `Applications`.
 3. In Applications, open Soundslides Plus.
 
-![](/assets/soundslides-opening-soundslides.png)
+![Opening Soundslides.](/assets/soundslides-opening-soundslides.png)
 

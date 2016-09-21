@@ -11,4 +11,4 @@
 9. Click and drag the selected thumbnails into your keeper-pics folder. 
 10. When finished, eject your SD card and remove it from the back of the Mac.
 
-![](/assets/soundslides-copying-jpg-files-from-sd-card.png)
+![Using Image Capture to copy JPG files from an SD card to keeper-pics folder.](/assets/soundslides-copying-jpg-files-from-sd-card.png)

@@ -14,4 +14,4 @@
 7. Click and drag the selected thumbnails into your keeper-pics folder.
 8. When finished, eject your USB drive and remove it from the back of the Mac.
 
-![](/assets/soundslides-copying-jpg-files-from-usb-drive.png)
+![Using Preview to copy JPG files from a USB drive to keeper-pics folder.](/assets/soundslides-copying-jpg-files-from-usb-drive.png)

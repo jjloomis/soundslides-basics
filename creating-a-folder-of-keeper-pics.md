@@ -5,5 +5,5 @@
 3. Press `Control` \(on keyboard\) and click in your class folder. In the fly-out menu, select `New Folder`.
 4. Name the new folder `keeper-pics-[project-name]`. Replace `[project-name]` with a relevant project name. Follow [file and folder naming conventions](https://jjloomis.gitbooks.io/file-and-folder-management/content/file-and-folder-naming-conventions.html).
 
-![](/assets/soundslides-keeper-pics-folder.png)
+![Creating a keeper-pics folder.](/assets/soundslides-keeper-pics-folder.png)
 

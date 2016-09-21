@@ -11,4 +11,4 @@
 9. In Image Capture, select the media files you want to copy into your project folder. Press and hold the `Command` key to select multiple media files.
 10. Click and drag the media files into your project folder.
 
-![](/assets/soundslides-copying-jpg-files-from-ipad-iphone.png)
+![Using Image Capture to copy JPG files from iPad$osl; iPhone to keeper-pics folder.](/assets/soundslides-copying-jpg-files-from-ipad-iphone.png)
