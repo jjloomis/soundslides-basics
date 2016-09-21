@@ -1,6 +1,5 @@
 {
     "plugins": [
-        "image-captions": { 
-             "align": "left"
+        "image-captions"
     ]
 }
