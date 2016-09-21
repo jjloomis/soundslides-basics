@@ -5,4 +5,4 @@
 3. Arrange your images again \(if necessary\).
 4. When finished, click `Save`.
 
-![](/assets/soundslides-adding-an-image.png)
+![Adding an image wasn't in the original keeper-pics folder.](/assets/soundslides-adding-an-image.png)
