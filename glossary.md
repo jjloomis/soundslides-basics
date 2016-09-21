@@ -1,3 +1,5 @@
+# Glossary
+
 ## Class folder
 
 Network storage space used for multimedia projects.
