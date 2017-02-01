@@ -6,7 +6,7 @@ Soundslides Basics for [Journalism, Advertising, and Media Studies](http://uwm.e
 
 ## Credits
 
-Written by JJ Loomis
+Written by Jeffrey John Loomis
 
 ## Other formats
 
